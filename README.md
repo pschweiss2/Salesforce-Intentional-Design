@@ -24,7 +24,7 @@ It's a configuration-only branding roadmap for Salesforce admins and technology 
 
 | File | Description |
 |---|---|
-| [`ROADMAP.md`](./Salesforce_Branding_Roadmap.md) | The full branding roadmap — start here |
+| [`Salesforce_Branding_Roadmap.md`](./Salesforce_Branding_Roadmap.md) | The full branding roadmap — start here |
 | [`LICENSE.md`](./LICENSE.md) | CC BY 4.0 — fork it, adapt it, share it |
 
 ---
