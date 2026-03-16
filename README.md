@@ -76,7 +76,7 @@ It is part of the **Powered by Intentional Design** content series — a collect
 
 **Authors**
 - [Pete Schweiss](https://linkedin.com/in/peteschweiss) — Director of Technology Services, Hope Ignites
-- [Aly Marin] (https://www.linkedin.com/in/aly-marin-a0152798/) — Brand and Design Manager, Hope Ignites 
+- [Aly Marin](https://www.linkedin.com/in/aly-marin-a0152798/) — Brand and Design Manager, Hope Ignites 
 
 ---
 
