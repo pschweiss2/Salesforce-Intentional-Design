@@ -12,20 +12,11 @@ Most Salesforce orgs look exactly like Salesforce.
 
 Generic blue cloud. Default navigation. Fields labeled for a sales team. A homepage that could belong to anyone.
 
-For nonprofit staff who chose this work because they believe in something — that disconnect matters more than we realize. When a platform feels like it was built for someone else, people don't engage with it the same way. Adoption suffers. Data suffers. Mission suffers.
+For nonprofit folks who chose this work because they believe in something — that disconnect matters more than we realize. When a platform feels like it was built for someone else, people don't engage with it the same way. Adoption suffers. Data suffers. Mission suffers.
 
 **This repo is the antidote.**
 
 It's a configuration-only branding roadmap for Salesforce admins and technology leaders who want to make their org feel like home — without writing a single line of code.
-
----
-
-## What's in Here
-
-| File | Description |
-|---|---|
-| [`Salesforce_Branding_Roadmap.md`](./Salesforce_Branding_Roadmap.md) | The full branding roadmap — start here |
-| [`LICENSE.md`](./LICENSE.md) | CC BY 4.0 — fork it, adapt it, share it |
 
 ---
 
@@ -57,12 +48,12 @@ Fork it. Adapt it. The license lets you do exactly that — just keep the attrib
 ## The Research Behind This
 
 This roadmap is grounded in data on workplace belonging and platform adoption:
-
+_Statistics as of March 2026_
 - Nonprofit CRM adoption sits at **72%** — nearly 1 in 3 users not fully engaging *(G2 Research, 2024)*
 - The #1 barrier to tech adoption at nonprofits is **organizational culture**, not budget or complexity *(NTEN, 2024)*
 - Employees with a high sense of belonging show a **56% increase in job performance** and **50% reduction in turnover risk** *(BetterUp)*
 - **88%** of employed Americans agree that belonging leads to higher productivity *(Ipsos, 2022)*
-- Organizations with robust employer brands see **28% lower voluntary turnover** *(Deloitte, 2024)*
+- Organizations with robust brand standards see **28% lower voluntary turnover** *(Deloitte, 2024)*
 
 When a platform looks and feels like your mission, your people show up differently. This roadmap is the practical how-to for making that happen.
 
@@ -83,6 +74,7 @@ It is part of the **Powered by Intentional Design** content series — a collect
 ## Contributing
 
 This is a community document. Found something missing? Have a configuration tip that belongs here? **Pull requests are welcome.**
+Or email pete@schweiss.family with your thoughts and suggestions.
 
 Please keep contributions to:
 - Configuration-only techniques (no Apex, no LWC development)
