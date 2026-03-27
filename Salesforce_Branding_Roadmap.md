@@ -23,8 +23,9 @@ Before touching a single setting, answer these questions with your brand manager
 ### The Brand Alignment Checklist
 
 - [ ] **What are our primary and secondary brand colors?** (Get exact hex codes — not "kind of blue")
+          _If you have a few colors to chhose from consider ADA recomendtiaons here._
 - [ ] **Do we have an approved logo file in PNG format with a transparent background?**
-- [ ] **What do we call the people we serve?** (Contacts? Community Members? Participants? Students?)
+- [ ] **What do we call the people we serve?** (Contacts? Community Members? Participants? Students?Schoalrs?)
 - [ ] **What do we call our partner organizations?** (Accounts? Partners? Affiliates? Chapters?)
 - [ ] **What is the emotional tone we want staff to feel when they open the system?** (Energized? Grounded? Supported?)
 - [ ] **What is one sentence that describes why this system exists for our team?**
@@ -38,6 +39,7 @@ Before touching a single setting, answer these questions with your brand manager
 ## ADA & Accessibility Guidelines
 
 Branding should never come at the cost of accessibility. Every customization decision should be evaluated against WCAG 2.1 AA standards at minimum.
+Learn more here: https://www.w3.org/TR/WCAG21/
 
 ### Color Contrast Requirements
 
@@ -118,7 +120,7 @@ The single most impactful change you can make. Controls the global color of the 
 
 ---
 
-#### 2. Login Page Customization
+#### 2. Login Page (aka the front door to your org!) Customization
 **Where:** Setup → My Domain → Login Page Branding (requires My Domain to be enabled)
 
 > **Note:** This applies when users log in directly at your org's login URL — not when using SSO/SAML. If your org uses SSO, users typically never see this page.
@@ -202,7 +204,7 @@ Your CRM was built for salespeople. Your org is built for mission. The language 
 4. Save — changes propagate across the UI immediately
 5. Repeat for individual field labels via Fields & Relationships
 
-> ⚠️ **Important:** Renaming labels does not change API names. Integrations, reports using API names, and data migrations are unaffected. This is purely a UI change.
+> ⚠️ **Important:** Renaming labels does not change API names. Integrations, reports using API names, and data migrations _should_ remain unaffected. Test in a sandbox before making any changes in production.
 
 ---
 
@@ -356,6 +358,7 @@ This document is designed to be shared, adapted, and built upon.
 - Adapt it for client orgs if you're a consultant or implementation partner
 
 **Please contribute back:** If you find a configuration option that belongs here, open a pull request. This is a community document.
+If you are not familiar with GitHub - Please share your suggestions via email (pete@schweiss.family) I will be happy to update this resorue and give credit where credit is due!
 
 ---
 
@@ -405,7 +408,7 @@ TIER 3 (Refinement)
 **Beyond the Blue Cloud** is the flagship session — a collaboration between a Technology Leader and a Brand Manager exploring how nonprofit Salesforce orgs can move from generic utility to mission-aligned community hub.
 
 *Pete Schweiss — Director of Technology Services, Hope Ignites*
-*Aly Marin — [Title, Organization]*
+*Aly Marin — Brand and Marketing Manager, Hope Ignites*
 
 ---
 
